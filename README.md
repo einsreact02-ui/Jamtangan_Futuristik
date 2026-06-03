@@ -1,5 +1,3 @@
-# Jamtangan_Futuristik
-Jam tangan
 <!DOCTYPE html>
 <html lang="id">
 <head>
